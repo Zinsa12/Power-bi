@@ -1,0 +1,9 @@
+
+"WattWatch: Analyzing Urban Energy Consumption for Smarter Cities"
+Central zone recorded the highest average energy consumption, indicating it is the primary energy hotspot.
+Industrial consumers account for the largest share of electricity usage compared to residential and commercial consumers.
+Energy consumption peaks during September, suggesting seasonal demand fluctuations.
+North and South zones experienced higher outage durations, indicating potential power supply reliability issues.
+Average peak usage remains consistently high among industrial consumers, increasing load on the grid.
+Residential consumption is lower overall but shows steady demand throughout the year.
+Targeted energy-efficiency programs in high-consumption zones could reduce overall city power demand and operational costs.
